@@ -1,0 +1,16 @@
+C:\Users\user\Downloads\Telegram Desktop\Java Backend\src\main\java\ai\smartcity\controller\AuthController.java
+C:\Users\user\Downloads\Telegram Desktop\Java Backend\src\main\java\ai\smartcity\controller\ReportController.java
+C:\Users\user\Downloads\Telegram Desktop\Java Backend\src\main\java\ai\smartcity\controller\UserController.java
+C:\Users\user\Downloads\Telegram Desktop\Java Backend\src\main\java\ai\smartcity\model\Report.java
+C:\Users\user\Downloads\Telegram Desktop\Java Backend\src\main\java\ai\smartcity\model\User.java
+C:\Users\user\Downloads\Telegram Desktop\Java Backend\src\main\java\ai\smartcity\payload\AuthRequest.java
+C:\Users\user\Downloads\Telegram Desktop\Java Backend\src\main\java\ai\smartcity\payload\AuthResponse.java
+C:\Users\user\Downloads\Telegram Desktop\Java Backend\src\main\java\ai\smartcity\payload\RegisterRequest.java
+C:\Users\user\Downloads\Telegram Desktop\Java Backend\src\main\java\ai\smartcity\repository\ReportRepository.java
+C:\Users\user\Downloads\Telegram Desktop\Java Backend\src\main\java\ai\smartcity\repository\UserRepository.java
+C:\Users\user\Downloads\Telegram Desktop\Java Backend\src\main\java\ai\smartcity\security\CustomUserDetailsService.java
+C:\Users\user\Downloads\Telegram Desktop\Java Backend\src\main\java\ai\smartcity\security\JwtAuthFilter.java
+C:\Users\user\Downloads\Telegram Desktop\Java Backend\src\main\java\ai\smartcity\security\JwtService.java
+C:\Users\user\Downloads\Telegram Desktop\Java Backend\src\main\java\ai\smartcity\security\JwtUtils.java
+C:\Users\user\Downloads\Telegram Desktop\Java Backend\src\main\java\ai\smartcity\security\SecurityConfig.java
+C:\Users\user\Downloads\Telegram Desktop\Java Backend\src\main\java\ai\smartcity\SmartcityBackendApplication.java
